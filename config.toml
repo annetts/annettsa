@@ -56,18 +56,18 @@ canonifyurls = true
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
-[[menu.main]]
-  weight = 5
-  identifier = "about"
-  name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-  url = "/#about"
+#[[menu.main]]
+#  weight = 4
+#  identifier = "archives"
+#  name = "Archives"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+#  url = "/archives"
+#[[menu.main]]
+#  weight = 5
+#  identifier = "about"
+#  name = "About"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+#  url = "/#about"
 
 [[menu.links]]
   weight = 1
