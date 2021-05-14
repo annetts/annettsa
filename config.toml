@@ -24,7 +24,7 @@ canonifyurls = true
 
 [author]
   name = "Annett Sa"
-  bio = "**Developer** learning **data science**"
+  bio = "**Developer** learning **Data Science**"
   job = "Full Stack Developer"
   location = "Estonia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -33,7 +33,7 @@ canonifyurls = true
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "images/annett.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  # twitter = "thibaudlepretre"
+  # twitter = "thigit sbaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
    googlePlus = "+ThibaudLepretre"
 
