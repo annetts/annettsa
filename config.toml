@@ -25,7 +25,7 @@ canonifyurls = true
 [author]
   name = "Annett Sa"
   bio = "**Developer** learning **data science**"
-  job = "Full Stack developer"
+  job = "Full Stack Developer"
   location = "Estonia"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   #gravatarEmail = "annett.dev@gmail.com"
@@ -62,12 +62,12 @@ canonifyurls = true
 #  name = "Archives"
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
 #  url = "/archives"
-#[[menu.main]]
-#  weight = 5
-#  identifier = "about"
-#  name = "About"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
-#  url = "/#about"
+[[menu.main]]
+  weight = 5
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\"></i>"
+  url = "/aboutme"
 
 [[menu.links]]
   weight = 1
@@ -96,6 +96,13 @@ canonifyurls = true
   name = "LinkedIn"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
   url = "https://www.linkedin.com/in/annetts/"
+
+  [[menu.links]]
+  weight = 5
+  identifier = "cv"
+  name = "CV"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
+  url = "https://resume.creddle.io/resume/76huam4rr9"
 
 #[[menu.links]]
 #  weight = 3
